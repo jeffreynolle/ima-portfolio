@@ -1,5 +1,5 @@
 ---
-title: Ima Photography
+title: Ima Portfolio
 timezone: UTC
 collections:
   posts:
@@ -8,17 +8,3 @@ collections:
   uploads:
     title: Uploads
     output: true
-social:
-  twitter: 
-  dribbble: 
-  email: 
-exclude:
-- README.md
-- Gemfile
-- Gemfile.lock
-description: Site Description
-baseurl: 
-url: 
-font: 
-font_style: 
-markdown: kramdown
